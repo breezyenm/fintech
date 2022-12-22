@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "647759373568",
+    "project_id": "qwid-9d4c7",
+    "storage_bucket": "qwid-9d4c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647759373568:android:b5af80444d6a6bbce4bfe5",
+        "android_client_info": {
+          "package_name": "io.blinqpay.qwid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647759373568-cf4k98di4qcj2t113r17b9jb98hljc9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWIaAbMIKyWVTbK6iatLIam3WrqSmLaw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647759373568-cf4k98di4qcj2t113r17b9jb98hljc9d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "647759373568-628ln4tgjgnl26ml7vrm2v411b7ntrb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.blinqpay.qwid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
